@@ -15,5 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 
-This line was added in my-branch for the Coursera project.
-Another update for my Coursera project 
+This is my change for git project 
